@@ -1,8 +1,8 @@
 import setuptools
 
 setuptools.setup(
-    name="alpha_assymetry_calculations",
-    verson="0.1.0",
+    name="alpha_asymmetry_calculations",
+    version="0.1.0",
     author="Justin Bowen",
     author_email="justinbowen@uchicago.edu",
     description="test package for PSYC 46050",
