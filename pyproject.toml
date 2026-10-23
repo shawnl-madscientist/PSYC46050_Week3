@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "eeg-tools"
+version = "0.1.0"
+description = "Package of Justin's EEG data"
+requires-python = ">=3.9"
+dependencies = ["mne", "numpy"]
+
+[tool.setuptools]
+packages = ["eeg_tools"]
